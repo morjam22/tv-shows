@@ -1,6 +1,6 @@
 # tv-shows
 
-Top 5 shows watched in 2020
+Top 5 shows watched in 2022
 
 1. Fresh Prince 
 2. Insecure
